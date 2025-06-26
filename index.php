@@ -310,31 +310,31 @@
             <h2>Tools I Use</h2>
             <div class="tools-grid">
                 <div class="tool-card">
-                    <img src="photoshp.png" alt="Adobe Photoshop">
+                    <img src="images/photoshp.png" alt="Adobe Photoshop">
                     <span>Adobe Photoshop</span>
                     <div class="progress-bar"><div class="progress" style="width:40%"></div></div>
                     <div class="progress-label">40%</div>
                 </div>
                 <div class="tool-card">
-                    <img src="canva.png" alt="Canva">
+                    <img src="images/canva.png" alt="Canva">
                     <span>Canva</span>
                     <div class="progress-bar"><div class="progress" style="width:80%"></div></div>
                     <div class="progress-label">80%</div>
                 </div>
                 <div class="tool-card">
-                    <img src="capcut.png" alt="CapCut">
+                    <img src="images/capcut.png" alt="CapCut">
                     <span>CapCut</span>
                     <div class="progress-bar"><div class="progress" style="width:70%"></div></div>
                     <div class="progress-label">70%</div>
                 </div>
                 <div class="tool-card">
-                    <img src="wordpres.png" alt="WordPress">
+                    <img src="images/wordpres.png" alt="WordPress">
                     <span>WordPress</span>
                     <div class="progress-bar"><div class="progress" style="width:50%"></div></div>
                     <div class="progress-label">50%</div>
                 </div>
                 <div class="tool-card">
-                    <img src="obs.png" alt="OBS Studio">
+                    <img src="images/obs.png" alt="OBS Studio">
                     <span>OBS Studio</span>
                     <div class="progress-bar"><div class="progress" style="width:70%"></div></div>
                     <div class="progress-label">70%</div>
